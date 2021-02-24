@@ -1,4 +1,4 @@
-# PROCA : Place Recognition under Occlusion and Changing Appearance via Disentangled Representations
+# PROCA
 ![Python 3.5](https://img.shields.io/badge/python-3.5-green.svg) ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 
 <img src='imgs/final.gif' width="800px">
